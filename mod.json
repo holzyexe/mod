@@ -1,0 +1,15 @@
+{
+	"geode": "4.6.0",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "yourname.timing-tweaker",
+	"name": "Timing Tweaker",
+	"version": "v1.0.0",
+	"developer": "yourname",
+	"description": "Change the physics tick rate (TPS) in-game, so 240Hz frame perfects can be played at 60Hz, 120Hz, etc.",
+	"tags": ["gameplay", "utility", "offline"]
+}
